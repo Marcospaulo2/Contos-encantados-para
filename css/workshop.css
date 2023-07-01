@@ -66,7 +66,7 @@
 	width: 65vmin;
 	height: 22em;
 	;
-	background-image: url("/img/ORQUESTRA/orquestra05.jpg");
+	background-image: url("/img/educador.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: inherit;
@@ -81,7 +81,7 @@
 	width: 60vmin;
 	height: 22em;
 	;
-	/* background-image: url("/img/Banner-02.png"); */
+	background-image: url("/img/ORQUESTRA/orquestra05.jpg");
 	background-size: cover;
 	transition: .3s ease-in-out;
 	/* border: 1px solid green; */
@@ -94,13 +94,25 @@
 	width: 60vmin;
 	height: 22em;
 	;
-	background-image: url("/img/CIRCO/circo01.jpeg");
+	/* background-image: url("/img/CIRCO/circo01.jpeg"); */
 	background-size: cover;
 	transition: .3s ease-in-out;
 	/* border: 1px solid green; */
 }
 
 .image-content4 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 60vmin;
+	height: 22em;
+	;
+	background-image: url("/img/CIRCO/circo01.jpeg");
+	background-size: cover;
+	transition: .3s ease-in-out;
+	/* border: 1px solid green; */
+}
+.image-content5 {
 	position: absolute;
 	top: 0;
 	right: 0;
